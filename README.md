@@ -3,7 +3,7 @@
 AI Noværa OS je originalni futuristički koncept operativnog sistema pokretan vještačkom inteligencijom.
 Ovaj projekat je autorska ideja i nije kopiran od drugih sistema – inspiracija dolazi iz ličnog razmišljanja o budućnosti tehnologije.
 
-Cilj projekta nije izrada pravog operativnog sistema, već vizualna i interaktivna demonstracija ideje: kako bi izgledao AI-first OS koji se sam održava i prilagođava korisniku.
+Cilj projekta je izrada pravog operativnog sistema,ali za sad je vizualna i interaktivna demonstracija ideje: kako bi izgledao AI-first OS koji se sam održava i prilagođava korisniku.
 
 
 ---
