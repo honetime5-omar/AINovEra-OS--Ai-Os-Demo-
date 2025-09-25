@@ -69,3 +69,6 @@ Projekat je otvoren za saradnju – slobodno dodaj svoje ideje ili vizualne efek
 
 Originalni koncept: [O.H]
 Prva verzija ideje o AI OS sa self-healing kernelom i fluidnom interakcijom.
+
+Keywords: AI OS, self-healing operating system, futuristic UI, quantum memory, AI browser, voice-first OS, holographic OS
+
