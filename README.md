@@ -6,7 +6,7 @@ Ovaj projekat je autorska ideja i nije kopiran od drugih sistema – inspiracija
 Cilj projekta je izrada pravog operativnog sistema,ali za sad je vizualna i interaktivna demonstracija ideje: kako bi izgledao AI-first OS koji se sam održava i prilagođava korisniku.
 
 
----
+---Otvarajte html sa CodePen lagano je
 
 🚀 Ključne ideje
 
