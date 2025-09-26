@@ -104,8 +104,8 @@ Ovaj projekat:
 - ✅ Služi isključivo kao **konceptualna vizualizacija**.  
 - ✅ Javno je objavljen da bi se jasno pokazalo autorstvo i originalnost ideje.  
 
-Autor: *[tvoje ime ili inicijali]*  
-Datum: *[današnji datum]*
+Autor: *[O.H]*  
+Datum: *[26.08]*
 
 ---
 
