@@ -94,8 +94,16 @@ Sve funkcije su **demonstracija i simulacija** u HTML/JS demo-u, a ne implementa
 ## 3. Svrha projekta
 - **Edukativna i kreativna demonstracija**: prikazati kako bi izgledao futuristički OS.  
 - **Inspiracija za zajednicu**: ovo NIJE funkcionalni operativni sistem, niti pokušaj da se implementira postojeći patentirani kod.  
-- **Otvorena ideja**: projekt je postavljen javno na GitHub kao open-source demo, uz licencu koja dozvoljava korištenje u istraživačke i edukativne svrhe.  
+- **Otvorena ideja**: projekt je postavljen javno na GitHub kao open-source demo, uz licencu koja dozvoljava korištenje u istraživačke i edukativne svrhe.
+- ## ⚠️ Disclaimer
 
+Ovaj projekat je konceptualni demo otvorenog koda. Autor (inicijalni kreator) nije odgovoran za bilo kakve izmjene, dopune, forkove ili distribuciju koje naprave drugi korisnici.  
+Sav kod se nudi "AS IS", bez ikakvih garancija, i koristi se isključivo na vlastitu odgovornost.
+
+### Odricanje odgovornosti
+
+Svi doprinosi (pull requestovi, izmjene, dodaci) postaju javni i dio open-source repozitorija.  
+Autor projekta nije odgovoran za posljedice korištenja tih izmjena od strane trećih lica.
 ---
 
 ## 4. Zaključak
