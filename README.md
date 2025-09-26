@@ -61,6 +61,56 @@ Ideja je autorska i originalna. Ako postoji sličan rad, to je slučajna podudar
 
 Projekat je otvoren za saradnju – slobodno dodaj svoje ideje ili vizualne efekte.
 
+Napomena 2
+# 📑 Non-Infringement & Originality Statement  
+*(AI Noværa OS — Concept Demo)*
+
+## 1. Original Idea
+Ovaj projekt — **AI Noværa OS (Concept Demo)** — je **autorska ideja** nastala kroz lično istraživanje i razmišljanje o budućnosti operativnih sistema.  
+Cilj nije da se replicira niti plagira bilo koji postojeći operativni sistem, patent ili akademski rad, već da se prikaže **vizija** kako bi izgledao AI-first OS sa funkcijama:
+
+- Self-Healing Kernel (sistem sam detektuje i simulira popravke)  
+- Voice-first i fluidno korisničko sučelje  
+- Hologramski / Dimensional UI koncept  
+- Quantum Memory (simulirano proširenje memorije)  
+- Integracija “AI orb” koji pokreće procese  
+
+Sve funkcije su **demonstracija i simulacija** u HTML/JS demo-u, a ne implementacija postojećih patenata ili komercijalnih sistema.
+
+---
+
+## 2. Razlika od postojećih radova i patenata
+- **Self-healing kernels** → Postoje patenti (npr. US9372742B2, US8082471B2) koji pokrivaju specifične metode detekcije i popravki.  
+  - *Razlika*: ovaj demo ne koristi iste metode niti algoritme; implementacija je vizuelna i edukativna simulacija.  
+
+- **AIOS / LLM-as-OS (istraživački radovi)** → ArXiv radovi predlažu AI kao operativni sistem.  
+  - *Razlika*: AI Noværa OS koristi **microkernel + AI servis** pristup i sve je predstavljeno kao interaktivna vizualizacija, a ne stvarni kernel/OS.  
+
+- **Adaptive OS funkcije (Android Adaptive Battery, MS Self-healing services)**  
+  - *Razlika*: Ove funkcije su ograničene na optimizaciju postojećeg OS-a. AI Noværa OS je konceptualni **samostalni OS** sa jedinstvenim UI/UX idejama.  
+
+---
+
+## 3. Svrha projekta
+- **Edukativna i kreativna demonstracija**: prikazati kako bi izgledao futuristički OS.  
+- **Inspiracija za zajednicu**: ovo NIJE funkcionalni operativni sistem, niti pokušaj da se implementira postojeći patentirani kod.  
+- **Otvorena ideja**: projekt je postavljen javno na GitHub kao open-source demo, uz licencu koja dozvoljava korištenje u istraživačke i edukativne svrhe.  
+
+---
+
+## 4. Zaključak
+Ovaj projekat:  
+- ✅ Nije kopija postojećeg OS-a ili patenta.  
+- ✅ Služi isključivo kao **konceptualna vizualizacija**.  
+- ✅ Javno je objavljen da bi se jasno pokazalo autorstvo i originalnost ideje.  
+
+Autor: *[tvoje ime ili inicijali]*  
+Datum: *[današnji datum]*
+
+---
+
+
+
 
 
 ---
