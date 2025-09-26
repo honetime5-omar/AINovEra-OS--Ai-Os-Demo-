@@ -10,7 +10,9 @@ Cilj projekta je prikazati izradu pravog operativnog sistema,ovo je vizualna i i
 
 🚀 Ključne ideje
 
-Self-Healing Kernel → sistem se automatski popravlja bez potrebe za resetovanjem.
+Stub-Based AI Kernel
+
+→ sistem se automatski popravlja bez potrebe za resetovanjem.
 
 Fluidna AI ikona → centralna tačka koja lebdi, nadzire procese, rješava greške i pokreće aplikacije.
 
